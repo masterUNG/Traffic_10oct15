@@ -4,5 +4,8 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <dimen name="h1">35sp</dimen>
+    <dimen name="h2">20sp</dimen>
+    <dimen name="icon">110dp</dimen>
+    <dimen name="image">220dp</dimen>
 
 </resources>
